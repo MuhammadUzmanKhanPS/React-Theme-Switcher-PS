@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MuhammadUzmanKhanPS/ReactThemeSwitcher.git"
+    "url": "git+https://github.com/MuhammadUzmanKhanPS/React-Theme-Switcher-PS.git"
   },
   "author": "uzman-ps",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MuhammadUzmanKhanPS/ReactThemeSwitcher/issues"
+    "url": "https://github.com/MuhammadUzmanKhanPS/React-Theme-Switcher-PS/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -45,5 +45,5 @@
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
   },
-  "homepage": "https://github.com/MuhammadUzmanKhanPS/ReactThemeSwitcher#readme"
+  "homepage": "https://github.com/MuhammadUzmanKhanPS/React-Theme-Switcher-PS#readme"
 }
